@@ -5,13 +5,16 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>바밤바</title>
+    <link rel="stylesheet" href="/css/style.css">
 </head>
 
 <body>
     <div class="wrap">
         <header class="header">
             <div class="inner">
-                <h1><a href="/">메로나... 올 떄 사와...</a></h1>
+                <h1><a href="/">
+                    <img src="/images/grafflogo.png" alt="">
+                </a></h1>
                 <nav>
                     <ul>
                         <li><a href="/doc/poem01.html">시 01</a></li>
